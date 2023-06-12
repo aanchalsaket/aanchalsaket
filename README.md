@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ig -
 - 😊 Pronouns : she/her
-- ✨ Hobbies : Drawing, painting, doodling
+- ✨ Hobbies : 
 
 <!---
 aanchalsaket/aanchalsaket is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
