@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ig - @theaanchalsaket
+- 📫 How to reach me ig -
 - 😊 Pronouns : she/her
 - ✨ Hobbies : Drawing, painting, doodling
 
