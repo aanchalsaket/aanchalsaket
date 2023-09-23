@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aanchalsaket
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning MySQL
 - 😊 Pronouns : she/her
  
 
