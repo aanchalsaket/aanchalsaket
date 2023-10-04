@@ -3,7 +3,9 @@
 
 <img align="right" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="Coding">
 
-🔭 I’m currently working on web development skills<br><br>🌱 I’m currently learning MySQL<br><br>💬 Ask me about Web Design and Development 🌎<br><br>📫 How to reach me https://www.linkedin.com/in/aanchal-saket-96228722b/
+🔭 I’m currently working on web development skills<br><br>
+🌱 I’m currently learning JavaScript, MySQL, MongoDB <br><br>💬 Ask me about Web Design and Development 🌎<br><br>
+📫 How to reach me https://www.linkedin.com/in/aanchal-saket-96228722b/
 
 
 ## 🌐 Socials:
@@ -20,6 +22,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 
 # 📊 GitHub Stats:
