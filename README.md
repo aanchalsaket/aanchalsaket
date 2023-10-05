@@ -4,7 +4,8 @@
 <img align="right" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="Coding">
 
 🔭 I’m currently working on web development skills<br><br>
-🌱 I’m currently learning JavaScript, MySQL, MongoDB <br><br>💬 Ask me about Web Design and Development 🌎<br><br>
+🌱 I’m currently learning JavaScript, MySQL, MongoDB <br><br>
+💬 Ask me about Web Design and Development 🌎<br><br>
 📫 How to reach me https://www.linkedin.com/in/aanchal-saket-96228722b/
 
 
