@@ -1,5 +1,5 @@
 # 💫 About Me :
-👨‍💻 I'm a dedicated web developer with a strong passion for creating engaging and user-friendly web experiences. My journey in the world of web development began with a simple curiosity and has since evolved into a profound love for turning ideas into functional, beautiful, and efficient code🚀💫
+👨‍💻 I'm a dedicated web developer with a strong passion for creating engaging and user-friendly web experiences. My journey in the world of web development began with a simple curiosity and has since evolved into a profound love for turning ideas into functional, beautiful, and efficient code🚀💫💫
 
 <img align="right" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="Coding">
 
